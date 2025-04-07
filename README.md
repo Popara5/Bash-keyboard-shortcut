@@ -1,4 +1,6 @@
-# Bash-keyboard-shortcut
+Bash Shortcuts
+visual cheetsheet
+
 Moving
 command	description
 ctrl + a	Goto BEGINNING of command line
@@ -10,7 +12,6 @@ alt + b	move cursor BACK one word
 ctrl + xx	Toggle between the start of line and current cursor position
 ctrl + ] + x	Where x is any character, moves the cursor forward to the next occurance of x
 alt + ctrl + ] + x	Where x is any character, moves the cursor backwards to the previous occurance of x
-
 Edit / Other
 command	description
 ctrl + d	Delete the character under the cursor
@@ -72,4 +73,3 @@ kill %n
 Example:
 
 kill %1
-References
