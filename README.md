@@ -55,8 +55,11 @@ $[TAB][TAB]	List all system variables
 @[TAB][TAB]	List all entries in your /etc/hosts file
 [TAB]	Auto complete
 cd -	change to PREVIOUS working directory
+
 History
+
 command	description
+
 ctrl + r	Search backward starting at the current line and moving 'up' through the history as necessary
 crtl + s	Search forward starting at the current line and moving 'down' through the history as necessary
 ctrl + p	Fetch the previous command from the history list, moving back in the list (same as up arrow)
@@ -70,7 +73,9 @@ ctrl + g	Escape from history searching mode
 !$	Last argument of last command
 !^	First argument of last command
 ^abc^xyz	Replace first occurance of abc with xyz in last command and execute it
+
 Kill a job
+
 n = job number, to list jobs, run jobs
 
 kill %n
