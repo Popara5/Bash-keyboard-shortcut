@@ -1,10 +1,11 @@
-Bash Shortcuts
-visual cheetsheet
+Bash Shortcuts - visual cheetsheet
 
 Moving
+
 command	description
-ctrl + a	Goto BEGINNING of command line
-ctrl + e	Goto END of command line
+
+ctrl + a	Go to BEGINNING of command line
+ctrl + e	Go to END of command line
 ctrl + b	move back one character
 ctrl + f	move forward one character
 alt + f	move cursor FORWARD one word
@@ -12,8 +13,11 @@ alt + b	move cursor BACK one word
 ctrl + xx	Toggle between the start of line and current cursor position
 ctrl + ] + x	Where x is any character, moves the cursor forward to the next occurance of x
 alt + ctrl + ] + x	Where x is any character, moves the cursor backwards to the previous occurance of x
+
 Edit / Other
+
 command	description
+
 ctrl + d	Delete the character under the cursor
 ctrl + h	Delete the previous character before cursor
 ctrl + u	Clear all / cut BEFORE cursor
